@@ -18,6 +18,9 @@ We welcome any feedback on how `sbi` is working for your inference problems (see
 [contribute](http://www.mackelab.org/sbi/contribute/)).
 We wish to maintain a positive community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
+## Support
+
+`sbi` has been supported by the German Federal Ministry of Education and Research (BMBF) through the project ADIMEM, FKZ 01IS18052 A-D) and through the Tübingen AI Center (FKZ: 01IS18039A). [ADIMEM](https://fit.uni-tuebingen.de/Project/Details?id=9199) is a collaborative project between the groups of Jakob Macke (Uni Tübingen), Philipp Berens (Uni Tübingen), Philipp Hennig (Uni Tübingen) and Marcel Oberlaender (caesar Bonn) which aims to develop inference methods for mechanistic models.
 
 ## Citation
 
