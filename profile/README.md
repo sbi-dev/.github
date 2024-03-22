@@ -9,7 +9,7 @@ Amortized methods return a posterior that can be applied to many different obser
 
 ## Get started
 
-To get started using `sbi` begin by reading the [Documentation](https://www.mackelab.org/sbi/).
+To get started using `sbi` begin by reading the [Documentation](https://sbi-dev.github.io/sbi/).
 
 
 ## Feedback and Contributions
