@@ -14,9 +14,9 @@ To get started using `sbi` begin by reading the [Documentation](https://sbi-dev.
 
 ## Feedback and Contributions
 
-We welcome any feedback on how `sbi` is working for your inference problems (see [Discussions](https://sbi-dev.github.io/sbi/discussions)) and are happy to receive bug reports, pull requests and other feedback (see
+We welcome any feedback on how `sbi` is working for your inference problems (see [Discussions](https://github.com/sbi-dev/sbi/discussions)) and are happy to receive bug reports, pull requests and other feedback (see
 [contribute](http://sbi-dev.github.io/sbi/contribute/)).
-We wish to maintain a positive community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
+We wish to maintain a positive community, please read our [Code of Conduct](https://sbi-dev.github.io/sbi/code_of_conduct/).
 
 ## Support
 
