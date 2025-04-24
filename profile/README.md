@@ -24,7 +24,33 @@ We wish to maintain a positive community, please read our [Code of Conduct](http
 
 ## Citation
 
-If you use `sbi` consider citing the [sbi software paper](https://doi.org/10.21105/joss.02505), in addition to the original research articles describing the specific sbi-algorithm(s) you are using. 
+The `sbi` package has grown and improved significantly since its initial release, with
+contributions from a large and diverse community. To reflect these developments and the
+expanded functionality, we published an [updated JOSS
+paper](https://doi.org/10.21105/joss.07754). We encourage you to cite this
+newer version as the primary reference:
+
+```latex
+@article{BoeltsDeistler_sbi_2025,
+  doi = {10.21105/joss.07754},
+  url = {https://doi.org/10.21105/joss.07754},
+  year = {2025},
+  publisher = {The Open Journal},
+  volume = {10},
+  number = {108},
+  pages = {7754},
+  author = {Jan Boelts and Michael Deistler and Manuel Gloeckler and Álvaro Tejero-Cantero and Jan-Matthis Lueckmann and Guy Moss and Peter Steinbach and Thomas Moreau and Fabio Muratore and Julia Linhart and Conor Durkan and Julius Vetter and Benjamin Kurt Miller and Maternus Herold and Abolfazl Ziaeemehr and Matthijs Pals and Theo Gruner and Sebastian Bischoff and Nastya Krouglova and Richard Gao and Janne K. Lappalainen and Bálint Mucsányi and Felix Pei and Auguste Schulz and Zinovia Stefanidi and Pedro Rodrigues and Cornelius Schröder and Faried Abu Zaid and Jonas Beck and Jaivardhan Kapoor and David S. Greenberg and Pedro J. Gonçalves and Jakob H. Macke},
+  title = {sbi reloaded: a toolkit for simulation-based inference workflows},
+  journal = {Journal of Open Source Software}
+}
+```
+
+This updated paper, with its expanded author list, reflects the broader community
+contributions and the package's enhanced capabilities in releases
+[0.23.0](https://github.com/sbi-dev/sbi/releases/tag/v0.23.3) and later.
+
+If you are using a version of `sbi` prior to 0.23.0, please cite the original sbi
+software paper:
 
 ```latex
 @article{tejero-cantero2020sbi,
@@ -40,6 +66,3 @@ If you use `sbi` consider citing the [sbi software paper](https://doi.org/10.211
   journal = {Journal of Open Source Software}
 }
 ```
-
-The above citation refers to the original version of the `sbi` project and has a persistent DOI.
-Additionally, new releases of `sbi` are citable via [Zenodo](https://zenodo.org/record/3993098), where we create a new DOI for every release.
