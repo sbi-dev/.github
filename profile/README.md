@@ -9,14 +9,14 @@ Amortized methods return a posterior that can be applied to many different obser
 
 ## Get started
 
-To get started using `sbi` begin by reading the [Documentation](https://sbi-dev.github.io/sbi/).
+To get started using `sbi` begin by reading the [Documentation](https://sbi.readthedocs.io/en/latest/index.html).
 
 
 ## Feedback and Contributions
 
 We welcome any feedback on how `sbi` is working for your inference problems (see [Discussions](https://github.com/sbi-dev/sbi/discussions)) and are happy to receive bug reports, pull requests and other feedback (see
-[contribute](http://sbi-dev.github.io/sbi/contribute/)).
-We wish to maintain a positive community, please read our [Code of Conduct](https://sbi-dev.github.io/sbi/code_of_conduct/).
+[contribute](https://sbi.readthedocs.io/en/latest/contributing.html)).
+We wish to maintain a positive community, please read our [Code of Conduct](https://sbi.readthedocs.io/en/latest/code_of_conduct.html).
 
 ## Support
 
